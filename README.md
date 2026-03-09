@@ -1,11 +1,8 @@
-<h1 align="center">Hola 👋 soy Alexander Pavón</h1>
+<h1 align="center">Hola, soy Alexander Pavón</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/alexander-pav%C3%B3n-87b843386/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alexander-pavon" />
-  </a>
-  <a href="mailto:a.alexanderpavon@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="a.alexanderpavon@gmail.com" />
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
 </p>
 
@@ -80,12 +77,5 @@
 </tr>
 </table>
 
-<br><br><br><br><br><br><br><br>
-
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AlexanderPavon&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
 
 </p>
