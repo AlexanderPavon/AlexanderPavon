@@ -75,7 +75,7 @@
   <img title="🔥 Streak stats" alt="Alexander streak" src="https://streak-stats.demolab.com/?user=AlexanderPavon&theme=dark&hide_border=false" />
 </td>
 <td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPavon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlexanderPavon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </td>
 </tr>
 </table>
